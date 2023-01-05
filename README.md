@@ -3,6 +3,10 @@
 LINK TO WALKTHROUGH VIDEO:
 https://drive.google.com/file/d/1vxrVcPzdRW24wGkH4Laok1dS4NbAnf3D/view
 
+SCREENSHOT OF APP:
+
+![employeetrack](https://user-images.githubusercontent.com/110129027/210686048-cde2e067-64aa-476a-8b7f-8358b81f6bc4.png)
+
 # Table of Contents
 
 1. [Project Title](#Title)
