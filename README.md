@@ -1,5 +1,8 @@
 # jessepemployeetracker
 
+LINK TO WALKTHROUGH VIDEO:
+https://drive.google.com/file/d/1vxrVcPzdRW24wGkH4Laok1dS4NbAnf3D/view
+
 # Table of Contents
 
 1. [Project Title](#Title)
